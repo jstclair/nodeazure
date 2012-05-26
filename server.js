@@ -8,6 +8,6 @@ server.on('connection', function() {
 	console.log('Connected');
 })
 
-server.listen(1337);
+server.listen(process.env.port);
 
 console.log('Node started on 1337');
