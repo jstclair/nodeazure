@@ -1,3 +1,0 @@
-[submodule ".git-azure"]
-	path = .git-azure
-	url = git@github.com:tjanczuk/git-azure.git
